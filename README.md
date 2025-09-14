@@ -1,16 +1,37 @@
-## Hi there 👋
+Ludmilla Fujioka
 
-<!--
-**ludmilla-fujiokalu/ludmilla-fujiokalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquiteta e Urbanista | Estudante de Análise e Desenvolvimento de Sistemas | Futura desenvolvedora
+Foco em JavaScript, Node.js, Java, Python, Power BI e Inteligência Artificial.
 
-Here are some ideas to get you started:
+👋 Olá!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Arquiteta e Urbanista com experiência em projetos, obras públicas e gestão estratégica, atualmente em transição para a área de tecnologia.
+Cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul (conclusão em 2027), estou me formando para atuar como desenvolvedora, com foco em JavaScript, Node.js, Java, Python, Power BI e Inteligência Artificial.
+
+Sou organizada, analítica e orientada a resultados, com facilidade em integrar planejamento, execução e inovação tecnológica — unindo minha base técnica em arquitetura às novas competências em tecnologia da informação.
+
+🚀 Destaques
+
+🎓 Formação: Arquitetura e Urbanismo
+
+💻 Curso atual: ADS (Cruzeiro do Sul) — conclusão em 2027
+
+🏗️ Experiência em projetos, obras públicas e gestão estratégica
+
+⚙️ Habilidades técnicas: JavaScript, Node.js, Java, Python, Power BI, Inteligência Artificial
+
+✨ Perfil: organizada, analítica e orientada a resultados
+
+🛠️ Tecnologias
+
+Linguagens: JavaScript, Java, Python
+
+Back-end: Node.js
+
+Dados & BI: Power BI
+
+Ferramentas: Git, GitHub, VS Code
+
+📫 Contato :61 985970008
+🌐 LinkedIn: www.linkedin.com/in/ludmillafujioka
+✉️ E-mail: fujioka.ludmilla@gmail.com
